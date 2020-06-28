@@ -4,7 +4,7 @@
 \name{AsyncNomis-package}
 \alias{AsyncNomis}
 \alias{AsyncNomis-package}
-\title{AsyncNomis: Shiny implementation for asynchronous interactive querying of Nomis data}
+\title{AsyncNomis: Asynchronous Querying of Nomis Data}
 \description{
 Asynchronous querying of Nomis data in Shiny.
 }

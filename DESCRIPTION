@@ -1,8 +1,9 @@
 Package: AsyncNomis
-Title: Shiny implementation for asynchronous interactive querying of Nomis data
+Title: Asynchronous Querying of Nomis Data
 Version: 0.0.0.9000
 Authors@R: person('Konrad', 'Zdeb', email = 'konrad.zdeb@me.com', role = c('cre', 'aut'))
-Description: AsyncNomis provides asynchronous interface for querying
+Description: Asynchronous and portable Shiny application facilitating querying 
+  of Nomis data via simple interface.
     Nomis data via Shiny.
 License: MIT + file LICENSE
 Depends:
@@ -19,3 +20,6 @@ LazyData: true
 RoxygenNote: 7.1.0
 URL: https://github.com/konradzdeb/AsyncNomis
 BugReports: https://github.com/konradzdeb/AsyncNomis/issues
+Suggests: 
+    spelling
+Language: en-GB
