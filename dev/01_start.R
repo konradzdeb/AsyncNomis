@@ -1,11 +1,12 @@
 golem::fill_desc(
   pkg_name = "AsyncNomis",
   pkg_title = "Shiny implementation for asynchronous interactive querying of Nomis data",
-  pkg_description = "The package provides ",
+  pkg_description = "AsyncNomis provides asynchronous interface for querying
+    Nomis data via Shiny.",
   author_first_name = "Konrad",
   author_last_name = "Zdeb",
   author_email = "konrad.zdeb@me.com",
-  repo_url = NULL
+  repo_url = "https://github.com/konradzdeb/AsyncNomis"
 )
 golem::set_golem_options()
 usethis::use_mit_license( name = "Konrad Zdeb" )
