@@ -1,0 +1,8 @@
+# RStudio work files
+.Rhistory
+.RData
+.Rproj.user
+sessionInfoLog
+
+# VScode production
+.vscode/
