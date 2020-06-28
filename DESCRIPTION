@@ -8,7 +8,8 @@ License: MIT + file LICENSE
 Imports: 
     config,
     golem,
-    shiny
+    shiny,
+    nomisr (>= 0.4.3)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
